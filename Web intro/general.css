@@ -1,0 +1,23 @@
+*
+{
+
+    box-sizing: border-box;
+}
+
+main {
+
+    padding-bottom: 10rem;
+}
+
+.container {
+    padding: 0.75rem 1rem;
+    border: 2px dashed;
+}
+
+.item  {
+    font-size: 2rem;
+    color: white;
+    background-color: cadetblue;
+    padding: 0.25rem 0.5rem;
+    border: 1px solid coral;
+}

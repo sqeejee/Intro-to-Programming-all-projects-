@@ -1,0 +1,15 @@
+.inactive
+{
+    opacity: 1;
+
+}
+
+.checkbox-container input:checked ~ .inactive{
+    opacity: 0;
+
+}
+
+.checkbox-container input:not(:checked) ~ .active{
+    opacity: 0;
+
+}

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\n\ This\ BankAccount\ class\ has\ a\ balance\ that\ can\ be\ changed\ by\ deposits\ &\ withdrawals.\n\ @author\ Sam\ Pulaski\n\ @version\ 03.16.21\n
+comment1.params=
+comment1.target=BankAccount()
+comment1.text=\n\ Constructs\ an\ object\ of\ the\ BankAccount\ class\ with\ no\ $.\n
+comment2.params=initialBalance
+comment2.target=BankAccount(double)
+comment2.text=\n\ Constructs\ an\ object\ of\ the\ BankAccount\ class\ with\ a\ starting\ amount\ of\ $.\n\ @param\ initialBalance\ $\ you\ start\ off\ with\n
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment3.text=\n\ Deposits\ a\ given\ amount\ of\ $\ into\ the\ bank\ account.\n\ @param\ amount\ $\ you\ deposit\n
+comment4.params=amount
+comment4.target=void\ withdraw(double)
+comment4.text=\n\ Withdraws\ a\ given\ amount\ of\ $\ out\ bank\ account.\n\ @param\ amount\ $\ you\ withdraw\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\n\ Gets\ the\ current\ amount\ of\ $\ in\ the\ bank\ account.\n\ @return\ The\ current\ amount\ of\ $\ in\ your\ bank\ account\n
+numComments=6

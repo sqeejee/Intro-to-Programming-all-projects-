@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Earthquake
+comment0.text=\n\ Mesaures\ and\ returns\ the\ description\ of\ earthquakes.\n\n\ @author\ Sam\ Pulaski\ \n\ @version\ 4.19.21\n
+comment1.params=scale
+comment1.target=Earthquake(double)
+comment1.text=\n\ Initilizes\ earthquake\ class.\n\ @param\ scale\ the\ scale\ of\ earthquake\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\n\ Returns\ a\ description\ of\ the\ earthquake.\n\ @return\ description\ based\ on\ magnitude\n
+numComments=3

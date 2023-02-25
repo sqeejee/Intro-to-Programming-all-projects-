@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\n\ Creates\ a\ die,\ rolls\ it,\ finds\ out\ if\ it\ is\ odd\ or\ not,\ and\ even\ gets\ the\ chance\ of\ rolling\ a\ one.\n\ @author\ Sam\ Pulaski\ \n\ @version\ 4.23.21\n
+comment1.params=side
+comment1.target=Die(int)
+comment1.text=\n\ Constructs\ three\ ints\ of\ the\ die\ class.\n\ @param\ side\ the\ percent\ interest\ increase\n
+comment2.params=
+comment2.target=int\ getRoll()
+comment2.text=\n\ Rolls\ the\ dice\ and\ returns\ a\ number.\n\ @return\ number\ is\ the\ selected/random\ number\ rolled\ onto.\n
+comment3.params=
+comment3.target=boolean\ hasEvenNumberOfSides()
+comment3.text=\n\ Sees\ if\ th\ e\ dice\ has\ an\ even\ number\ of\ sides.\n\ @return\ true\ if\ the\ number\ of\ sides\ is\ divisible\ by\ 2,\ false\ is\ else\n
+comment4.params=
+comment4.target=double\ getOdds()
+comment4.text=\n\ Rolls\ the\ dice\ and\ returns\ a\ number.\n\ @return\ odds\ the\ chance\ of\ rolling\ a\ one.\n
+numComments=5

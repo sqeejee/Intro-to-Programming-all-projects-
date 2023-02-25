@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=FenceBuilder
+comment1.params=
+comment1.target=void\ turnRight()
+comment1.text=.\n\ turns\ right\n
+comment2.params=
+comment2.target=void\ faceNorth()
+comment2.text=.\n\ Faces\ north\n
+comment3.params=
+comment3.target=java.lang.Boolean\ aboveBeeper()
+comment3.text=.\n\ tests\ if\ next\ to\ beeper\n\ @return\ true\ if\ above\ beeper\n
+comment4.params=
+comment4.target=boolean\ hasRightWall()
+comment4.text=.\nChecks\ for\ right\ wall\n@return\ if\ wall\ is\ right\n
+comment5.params=
+comment5.target=boolean\ hasLeftWall()
+comment5.text=.\nChecks\ for\ left\ wall\n@return\ if\ wall\ is\ left\n
+comment6.params=
+comment6.target=void\ constructFence()
+comment6.text=.\nConstructs\ the\ fence\n
+comment7.params=
+comment7.target=void\ twaordsWall()
+comment7.text=.\nHeads\ to\ wall\n
+numComments=8

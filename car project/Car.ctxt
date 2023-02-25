@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ This\ Car\ class\ consists\ of\ a\ gas\ tank\ and\ a\ fuel\ efficency\ and\ can\ drive\ a\ certain\ number\ of\ miles,\ add\ gas\ to\ the\ tank,\ and\ get\ the\ current\ amount\ of\ fuel\ in\ the\ tank.\n\ @author\ Sam\ Pulaski\n\ @version\ 3/18/21\n
+comment1.params=fuelEfficency
+comment1.target=Car(double)
+comment1.text=\n\ Constructs\ an\ object\ of\ the\ Car\ class\ with\ empty\ gas\ tank\ and\ given\ fuel\ efficeny.\n\ @param\ fuelEfficency\ the\ number/miles\ per\ gallon\ you\ enter\n
+comment2.params=gallons
+comment2.target=void\ addGas(double)
+comment2.text=\n\ Adds\ a\ selected\ amount\ of\ gallons\ of\ gas\ to\ the\ tank.\n\ @param\ gallons\ amount\ of\ gas\ you\ fill\ the\ car\ with\n
+comment3.params=miles
+comment3.target=void\ drive(double)
+comment3.text=\n\ Drives\ for\ a\ selected\ amount\ of\ miles\ and\ reduces\ gas\ in\ tank\ relative\ to\ the\ fuel\ efficiency.\n\ @param\ miles\ miles\ you\ decide\ to\ drive/enter\n
+comment4.params=
+comment4.target=double\ getGasInTank()
+comment4.text=\n\ Gets\ the\ amount\ of\ gas\ that\ is\ left\ in\ your\ tank\n\ @return\ your\ gas\ left\ in\ tank\n
+numComments=5

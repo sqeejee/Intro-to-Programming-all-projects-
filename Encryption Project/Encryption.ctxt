@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Encryption
+comment1.params=aWord
+comment1.target=Encryption(java.lang.String)
+comment2.params=normal\ symbol
+comment2.target=java.lang.String\ getEncodedWord(char,\ char)
+numComments=3

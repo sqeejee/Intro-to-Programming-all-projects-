@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Investment
+comment0.text=\n\ Mesaures\ and\ returns\ the\ description\ of\ earthquakes.\n\n\ @author\ Sam\ Pulaski\ \n\ @version\ 4.19.21\n
+comment1.params=balance\ interest
+comment1.target=Investment(double,\ double)
+comment1.text=\n\ Constructs\ three\ ints\ of\ the\ Investment\ class.\n\ @param\ balance\ balance\ in\ bank\n\ @param\ interest\ the\ percent\ interest\ increase\n
+comment2.params=goal
+comment2.target=void\ waitForBalance(double)
+comment2.text=\n\ Waits\ for\ the\ balance\ to\ reach\ the\ desired\ goal.\n\ @param\ goal\ the\ goal/desired\ money\ entered\ by\ the\ user\n
+comment3.params=
+comment3.target=int\ getYears()
+comment3.text=\n\ Finds\ the\ total\ years\ you\ waited.\n\ @return\ years\ waited\n
+numComments=4

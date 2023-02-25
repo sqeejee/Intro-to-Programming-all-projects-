@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DataSet
+comment0.text=\n\ Mesaures\ and\ returns\ the\ description\ of\ earthquakes.\n\n\ @author\ Sam\ Pulaski\ \n\ @version\ 4.22.21\n
+comment1.params=
+comment1.target=DataSet()
+comment1.text=\n\ Constructs\ three\ ints\ of\ the\ dataSet\ class.\n
+comment2.params=number
+comment2.target=void\ add(double)
+comment2.text=\n\ This\ will\ add\ integers\ as\ well\ as\ find\ the\ max.\n\ @param\ number\ is\ the\ number\ entered\ by\ the\ user\!\n
+comment3.params=
+comment3.target=double\ getAverage()
+comment3.text=\n\ Gets\ the\ average\ of\ the\ numbers\ entered.\n\ @return\ average\ of\ entered\ numbers\n
+comment4.params=
+comment4.target=double\ getMaximum()
+comment4.text=\n\ Gets\ the\ biggest\ number\ entered.\n\ @return\ biggest\ numbers\n
+numComments=5

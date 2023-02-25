@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AreaMeasurer
+comment1.params=
+comment1.target=void\ measureWid()
+comment1.text=.\n\ Measure\ the\ width\n
+comment2.params=
+comment2.target=void\ measureVert()
+comment2.text=.\n\ Measure\ the\ height\n
+comment3.params=
+comment3.target=void\ returnPos()
+comment3.text=.\n\ Returns\ to\ orginal\ position\n
+comment4.params=
+comment4.target=void\ displayArea()
+comment4.text=.\n\ Displays\ araea\ of\ rect\n
+numComments=5

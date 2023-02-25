@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Escaper
+comment1.params=
+comment1.target=void\ turnRight()
+comment2.params=
+comment2.target=boolean\ hasLeftWall()
+comment3.params=
+comment3.target=boolean\ hasRightWall()
+comment4.params=
+comment4.target=void\ celebrate()
+comment5.params=
+comment5.target=void\ faceSouth()
+comment6.params=
+comment6.target=void\ climbDownWithoutCrashingIntoGround()
+comment7.params=
+comment7.target=void\ faceNorth()
+numComments=8

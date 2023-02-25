@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box {
+            background-color: blue;
+            width: 10rem;
+            height: 10rem;
+        }
+        .transitioner {
+            background-color: blue;
+            width: 10rem;
+            height: 10rem;
+            transition: 250ms cubic-bezier(0.075, 0.82, 0.165, 1) 0s;
+
+        }
+
+        .transitioner:hover{
+            background-color: red;
+            transform: translate(10px, 10px) scale(0.5);
+        }
+
+            @keyframes  my-animation {
+                from {
+                    transform: rotate(0);
+                }
+
+                to  {
+                    transform: rotate(1turn);
+
+                }
+                
+            }
+            .spinner {
+               animation: my-animation 1s linear 0s infinite;
+            }
+        </style>
+</head>
+<body>
+    <div class="transitioner">tet</div>
+    <div class="box spinner"></div>
+    </body>
+    </html>
